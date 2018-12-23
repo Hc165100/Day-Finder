@@ -1,0 +1,25 @@
+body {
+  background-color: lightseagreen;
+}
+
+div {
+}
+
+#dateWindow {
+  margin: auto;
+  padding: 15px;
+  text-align: center;
+  font-size: 3em;
+}
+
+#inputDate {
+  margin: 15px 44%;
+}
+
+button {
+  width: 100px;
+  margin: 15px 47%;
+  display: block;
+  background: aqua;
+  border-radius: 15px;
+}
