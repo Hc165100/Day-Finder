@@ -1,0 +1,5 @@
+This is a simple code for finding the day of the week for a given date. 
+
+It uses the built-in methods for Date objects to find the information and then references an array to display the appropriate day name.
+
+It was a straight forward challenge from the website SoloLearn.com.
